@@ -1,0 +1,19 @@
+8
+Khong co ten mon-99 478 85
+Khong co ten mon-98 413 285
+Khong co ten mon-97 691 213
+Khong co ten mon-96 594 362
+Khong co ten mon-95 459 452
+Khong co ten mon-89 823 371
+Khong co ten mon-87 661 72
+toan roi rac 1-TRR1 563 177
+xu ly tin hieu-XLTH 867 125
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 

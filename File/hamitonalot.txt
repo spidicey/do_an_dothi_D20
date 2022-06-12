@@ -1,0 +1,22 @@
+9
+
+w w w w-WWWW 322 47
+w w w w w-WWWW 585 47
+w w w w ww-WWWW 830 529
+m m m m-MMMM 498 529
+m m m m mmm-MMMM 905 47
+w w w wwww-WWWW 437 47
+w w w wwwwwww-WWWW 780 47
+w w w w wwwwwwwwwww-WWWW 965 529
+w w w wwwwwwwwwwwwwwwwwww-WWWW 336 529
+w w w w wwwwwwwwwwwwwwwwwwwww-WWWW 655 526
+0 1 1 1 1 1 1 1 1 1 
+1 0 1 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 0 0 1 
+1 1 0 0 0 0 0 0 1 0 
+1 0 0 1 0 0 0 1 0 0 
+1 1 0 0 0 0 0 0 0 1 
+1 0 0 0 1 0 0 0 1 0 
+1 0 1 0 0 1 0 0 0 0 
+1 0 0 0 0 0 0 1 0 0 
+1 0 0 1 0 0 1 0 0 0 

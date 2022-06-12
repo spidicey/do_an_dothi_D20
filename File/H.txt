@@ -1,0 +1,21 @@
+9
+w w w w-WWWW 469 165
+w w w w w-WWWW 585 246
+w w w w w w-WWWW 605 413
+w www w w-WWWW 737 158
+w ww ww ww-WWWW 760 374
+w w1 w w-WWWW 870 457
+w w w w wh-WWWW 608 48
+w w w w w l-WWWW 845 184
+w a b c-WABC 425 392
+w a c b n-WACB 429 92
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 

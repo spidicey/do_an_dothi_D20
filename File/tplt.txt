@@ -1,0 +1,21 @@
+9
+Khong co ten mon, 2 407 243
+Khong co ten mon, 1 415 392
+Khong co ten mon, 3 524 242
+Khong co ten mon, 4 523 395
+Khong co ten mon, 5 627 317
+Khong co ten mon, 6 743 315
+Khong co ten mon, 7 852 247
+Khong co ten mon, 8 974 235
+Khong co ten mon, 9 976 390
+Khong co ten mon, 10 842 411
+0 0 1 0 0 0 0 0 0 0 
+3 0 0 0 0 0 0 0 0 0 
+0 0 0 2 3 0 0 0 0 0 
+0 2 0 0 2 0 0 0 0 0 
+0 0 4 0 0 2 0 0 0 0 
+0 0 0 0 0 0 3 0 0 3 
+0 0 0 0 0 2 0 2 0 0 
+0 0 0 0 0 0 0 0 4 0 
+0 0 0 0 0 0 0 0 0 5 
+0 0 0 0 0 2 6 0 0 0 

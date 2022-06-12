@@ -1,0 +1,9 @@
+3
+Khong co ten mon, 99 476 127
+Khong co ten mon, 98 669 114
+Khong co ten mon, 97 453 282
+Khong co ten mon, 96 673 283
+0 1 0 1 
+0 0 1 1 
+1 0 0 1 
+0 1 1 0 

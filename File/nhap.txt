@@ -1,0 +1,19 @@
+8
+Khong co ten mon, 1 457 183
+Khong co ten mon, 2 720 272
+Khong co ten mon, 3 941 79
+Khong co ten mon, 4 526 479
+Khong co ten mon, 5 995 446
+an toan thoan tin, ATTT 380 396
+alo alo alo, AAA 678 83
+gay len, GL 786 451
+1 2 3, 123 1094 208
+0 1 0 0 0 0 1 0 0 
+0 0 0 0 2 0 1 1 1 
+0 0 0 0 0 0 0 0 1 
+0 2 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 
+1 0 0 2 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 
+0 0 0 0 3 0 0 0 0 
+0 0 0 0 0 0 0 0 0 

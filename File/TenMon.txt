@@ -1,0 +1,21 @@
+9
+Cau Truc Du Lieu, CTDL 779 183
+Lap Trinh Can Ban, LTCB 535 193
+Tin Hoc Co Ban, THCB 394 191
+Cau Truc May Tinh, CTMT 344 332
+Co So Du Lieu, CSDL 515 334
+Quan Tri May Tinh, QTMT 649 334
+He Quan Tri, HQT 647 462
+Phan Tich Thiet Ke, PTTK 515 474
+Dai So Tuyen Tinh, DSTT 417 63
+Ki thuat lap trinh, KTLT 647 81
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
